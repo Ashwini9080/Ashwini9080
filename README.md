@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Ashwini9080/Ashwini9080/main/assets/avatar.png" width="150" height="150" alt="Ashwini Gupta - Pixel Art Avatar" />
+
+<br />
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+Integration+Specialist;Immersive+UI+Builder;Currently+%E2%86%92+GSoC+%7C+MITACS+%7C+DAAD-WISE)](https://git.io/typing-svg)
 
 <p>

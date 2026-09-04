@@ -1,3 +1,4 @@
-*.png
+upscaled_*.png
+ash_reference.*
 .vscode/
 .codesight/
