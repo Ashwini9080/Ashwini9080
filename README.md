@@ -125,11 +125,15 @@ Bilingual (EN/HI) storytelling site with an antique-gold design system, canvas p
 
 <br/>
 
-## 📈 Contribution Space & Streak
+## 📈 Contribution Graph & Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ashwini9080/Ashwini9080/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Ashwini's 3D Contribution Graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashwini9080/Ashwini9080/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashwini9080/Ashwini9080/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Ashwini9080/Ashwini9080/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
 
 <br/><br/>
 
@@ -137,9 +141,13 @@ Bilingual (EN/HI) storytelling site with an antique-gold design system, canvas p
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashwini9080&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=94A3B8&dates=94A3B8" alt="GitHub Streak" />
 </a>
 
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Ashwini9080/Ashwini9080/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Ashwini's 3D Contribution Graph" />
+
 <br/>
 
-<sub>*⚡ 3D Isometric contribution graph automatically updated daily via GitHub Actions*</sub>
+<sub>*⚡ Contribution Snake & 3D Isometric graph automatically updated daily via GitHub Actions*</sub>
 
 </div>
 
