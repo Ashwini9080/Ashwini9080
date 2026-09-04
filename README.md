@@ -129,10 +129,22 @@ Bilingual (EN/HI) storytelling site with an antique-gold design system, canvas p
 
 <br/>
 
-## 📈 Contribution Activity
+## 📈 Contribution Space & Streak
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashwini9080&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F0FF&line=00F0FF&point=FFFFFF" />
+
+<img src="https://raw.githubusercontent.com/Ashwini9080/Ashwini9080/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Ashwini's 3D Contribution Graph" />
+
+<br/><br/>
+
+<a href="https://github.com/Ashwini9080">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashwini9080&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=94A3B8&dates=94A3B8" alt="GitHub Streak" />
+</a>
+
+<br/>
+
+<sub>*⚡ 3D Isometric contribution graph automatically updated daily via GitHub Actions*</sub>
+
 </div>
 
 <br/>
