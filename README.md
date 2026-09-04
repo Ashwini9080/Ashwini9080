@@ -118,9 +118,9 @@ Bilingual (EN/HI) storytelling site with an antique-gold design system, canvas p
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashwini9080&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" height="165" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwini9080&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF" height="165" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashwini9080&theme=tokyonight" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ashwini9080&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <br/>
@@ -134,7 +134,7 @@ Bilingual (EN/HI) storytelling site with an antique-gold design system, canvas p
 <br/><br/>
 
 <a href="https://github.com/Ashwini9080">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashwini9080&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=94A3B8&dates=94A3B8" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Ashwini9080&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=94A3B8&dates=94A3B8" alt="GitHub Streak" />
 </a>
 
 <br/><br/>
