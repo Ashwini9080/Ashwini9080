@@ -14,12 +14,13 @@ generative design tools to autonomous agent prototypes.
 ## 🛠 Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,py,cpp,git,github,vscode&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/AI%20Agents-00F0FF?style=flat-square&logo=openai&logoColor=black" />
-<img src="https://img.shields.io/badge/Prompt%20Engineering-00F0FF?style=flat-square&logo=googlegemini&logoColor=black" />
-<img src="https://img.shields.io/badge/Cursor-00F0FF?style=flat-square&logo=cursor&logoColor=black" />
-<img src="https://img.shields.io/badge/Antigravity-00F0FF?style=flat-square&logo=googlecolab&logoColor=black" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,py,supabase,threejs,git,github,vscode&theme=dark" />
+<br/><br/>
+<img src="https://img.shields.io/badge/AI%20Agents-00F0FF?style=flat-square&logo=openai&logoColor=0D1117&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-00F0FF?style=flat-square&logo=google&logoColor=0D1117&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Gemini%20API-00F0FF?style=flat-square&logo=google&logoColor=0D1117&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Cursor-00F0FF?style=flat-square&logo=cursor&logoColor=0D1117&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Antigravity-00F0FF?style=flat-square&logo=googlecolab&logoColor=0D1117&labelColor=0D1117" />
 </div>
 
 <br/>
@@ -116,16 +117,11 @@ Bilingual (EN/HI) storytelling site with an antique-gold design system, canvas p
 
 ## 📊 GitHub Stats
 
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=Ashwini9080&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwini9080&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashwini9080&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" height="165" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwini9080&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF" height="165" alt="Top Languages" />
+</div>
 
 <br/>
 
