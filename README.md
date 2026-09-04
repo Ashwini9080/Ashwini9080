@@ -1,35 +1,153 @@
-<h1 align="center">Hi 👋, I'm Ashwini Gupta</h1>
-<h3 align="center">Aspiring Full-Stack Web Developer & AI Engineer | BCA Student from Varanasi, India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwini9080&label=Profile%20views&color=0e75b6&style=flat" alt="ashwini9080" /> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+Integration+Specialist;Immersive+UI+Builder;Currently+%E2%86%92+GSoC+%7C+MITACS+%7C+DAAD-WISE)](https://git.io/typing-svg)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashwini9080" alt="ashwini9080" /></a> </p>
-
-- 🔭 I’m currently working on [AI Content Research & Generation Pipeline & Autonomous AI Agent workflows](https://github.com/Ashwini9080)
-
-- 🌱 I’m currently learning **python , React.js , Modern ,Prompt Engineering, LLM Multi-API Pipelines, React.js & Backend Architecture**
-
-- 👯 I’m looking to collaborate on **AI-integrated web applications, LLM pipelines, and modern frontend projects**
-
-- 🤝 I’m looking for help with **Advanced AI Agent design patterns and production deployment**
-
-- 💬 Ask me about **Gemini API, ElevenLabs, Python, JavaScript, Prompt Design, Responsive Web UI**
-
-- 📫 How to reach me **guptaashwini511@gmail.com**
-
-- ⚡ Fun fact **I love turning complex AI workflows and creative UI ideas into functional code!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ashwinig94901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashwinig94901" height="30" width="40" /></a>
-<a href="https://instagram.com/_ashwini_2523" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ashwini_2523" height="30" width="40" /></a>
+<p>
+Final-year BCA student building cinematic, AI-integrated web experiences. 🌌<br />
+Focused on full-stack development with a strong pull toward immersive, futuristic interface design.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashwini9080&show_icons=true&locale=en&layout=compact" alt="ashwini9080" /></p>
+### Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashwini9080&show_icons=true&locale=en" alt="ashwini9080" /></p>
+**Frontend**  
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts,threejs,gsap&theme=dark)](https://skillicons.dev)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwini9080&" alt="ashwini9080" /></p>
+**Backend**  
+[![Backend](https://skillicons.dev/icons?i=python,flask,supabase&theme=dark)](https://skillicons.dev)
+
+**AI / Automation**  
+[![Gemini API](https://img.shields.io/badge/Gemini_API-00F0FF?style=flat-square&logo=google&logoColor=0D1117&labelColor=0D1117)](https://ai.google.dev/)
+[![MediaPipe](https://img.shields.io/badge/MediaPipe-00F0FF?style=flat-square&logo=google&logoColor=0D1117&labelColor=0D1117)](https://developers.google.com/mediapipe)
+[![n8n](https://img.shields.io/badge/n8n-00F0FF?style=flat-square&logo=n8n&logoColor=0D1117&labelColor=0D1117)](https://n8n.io/)
+
+### Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Ashwini9080/jarvis-hud-interface">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0F0F,100:1A1A2E&height=120&section=header&text=JARVIS%20HUD&fontSize=28&fontColor=00F0FF&desc=Three.js%20%2B%20MediaPipe%20Holographic%20Interface&descAlignY=75&fontAlignY=35" width="100%" alt="JARVIS HUD Banner" />
+      </a>
+      <br /><br />
+      <b><a href="https://github.com/Ashwini9080/jarvis-hud-interface">JARVIS Holographic Interface</a></b>
+      <p>Three.js + MediaPipe hand-tracking + Web Speech API HUD system with modular interactive widgets.</p>
+      <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" alt="Three.js" />
+      <img src="https://img.shields.io/badge/MediaPipe-0F172A?style=flat-square&logo=google&logoColor=00F0FF" alt="MediaPipe" />
+      <img src="https://img.shields.io/badge/Web_Speech_API-1E293B?style=flat-square" alt="Web Speech API" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Ashwini9080/skillpath-ai">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0F0F,100:1A1A2E&height=120&section=header&text=SkillPath&fontSize=28&fontColor=00F0FF&desc=AI-Powered%20Learning%20Roadmap%20Generator&descAlignY=75&fontAlignY=35" width="100%" alt="SkillPath Banner" />
+      </a>
+      <br /><br />
+      <b><a href="https://github.com/Ashwini9080/skillpath-ai">SkillPath</a></b>
+      <p>AI-powered learning roadmap generator; React/Vite/TS frontend, Netlify Functions + Supabase backend, YouTube Data API + Tavily + Gemini for resource discovery.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Supabase-1E293B?style=flat-square&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+      <img src="https://img.shields.io/badge/Gemini_API-00F0FF?style=flat-square&logoColor=0D1117&labelColor=0D1117" alt="Gemini API" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Ashwini9080/mahabharat-chronicles">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0F0F,100:1A1A2E&height=120&section=header&text=Mahabharat%20Chronicles&fontSize=28&fontColor=00F0FF&desc=Bilingual%20Cinematic%20Storytelling&descAlignY=75&fontAlignY=35" width="100%" alt="Mahabharat Chronicles Banner" />
+      </a>
+      <br /><br />
+      <b><a href="https://github.com/Ashwini9080/mahabharat-chronicles">Mahabharat Chronicles</a></b>
+      <p>Bilingual (EN/HI) cinematic storytelling site, single-file HTML, antique-gold design system, canvas particle animation, and Gemini image generation.</p>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/Canvas_API-1E293B?style=flat-square" alt="Canvas API" />
+      <img src="https://img.shields.io/badge/Gemini_AI-00F0FF?style=flat-square&labelColor=0D1117" alt="Gemini AI" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Ashwini9080/gita-chronicles">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0F0F,100:1A1A2E&height=120&section=header&text=Gita%20Chronicles&fontSize=28&fontColor=00F0FF&desc=Cosmic%20Navigation%20%26%20Three.js%20Editorial&descAlignY=75&fontAlignY=35" width="100%" alt="Bhagavad Gita Chronicles Banner" />
+      </a>
+      <br /><br />
+      <b><a href="https://github.com/Ashwini9080/gita-chronicles">Bhagavad Gita Chronicles</a></b>
+      <p>Cinematic editorial site with Three.js cosmic backgrounds, GSAP ScrollTrigger, constellation navigation, and Sanskrit glossary.</p>
+      <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" alt="Three.js" />
+      <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" alt="GSAP" />
+      <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" alt="WebGL" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Ashwini9080/fake-news-detector">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0F0F,100:1A1A2E&height=120&section=header&text=Fake%20News%20Detection&fontSize=28&fontColor=00F0FF&desc=Flask%20REST%20API%20%26%205%20ML%20Models&descAlignY=75&fontAlignY=35" width="100%" alt="Fake News Detection System Banner" />
+      </a>
+      <br /><br />
+      <b><a href="https://github.com/Ashwini9080/fake-news-detector">Fake News Detection System</a></b>
+      <p>Flask REST API, TF-IDF vectorization, 5 machine learning classification models, and pytest test suite.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+      <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit Learn" />
+      <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="Pytest" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Ashwini9080/tunify-player">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0F0F,100:1A1A2E&height=120&section=header&text=Tunify&fontSize=28&fontColor=00F0FF&desc=Offline%20Player%20%26%20Spotify%20OAuth&descAlignY=75&fontAlignY=35" width="100%" alt="Tunify Banner" />
+      </a>
+      <br /><br />
+      <b><a href="https://github.com/Ashwini9080/tunify-player">Tunify</a></b>
+      <p>Offline music player with Spotify OAuth (implicit grant flow), 30-second preview playback, and local fuzzy-match search.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/Spotify_API-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify API" />
+      <img src="https://img.shields.io/badge/Web_Audio_API-1E293B?style=flat-square" alt="Web Audio API" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" width="100%" valign="top">
+      <a href="https://github.com/Ashwini9080/rakhi-roast">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0F0F,100:1A1A2E&height=120&section=header&text=Rakhi%20Roast&fontSize=28&fontColor=00F0FF&desc=Festive%20Sibling-Roast%20Generator&descAlignY=75&fontAlignY=35" width="100%" alt="Rakhi Roast Banner" />
+      </a>
+      <br /><br />
+      <b><a href="https://github.com/Ashwini9080/rakhi-roast">Rakhi Roast</a></b>
+      <p>Festive sibling-roast generator, Vite + React + Framer Motion, spin-wheel with session limits, and shareable result cards.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+      <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+    </td>
+  </tr>
+</table>
+
+### GitHub Stats
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=Ashwini9080&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF" width="100%" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwini9080&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF" width="100%" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+### Contribution Visualization
+
+<div align="center">
+
+![3D Contribution Graph](https://raw.githubusercontent.com/Ashwini9080/Ashwini9080/main/profile-3d-contrib/profile-night-rainbow.svg)
+
+<sub>*Contribution graph updates daily via automated GitHub Actions*</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00F0FF?style=flat-square&logo=linkedin&logoColor=0D1117&labelColor=0D1117)](https://linkedin.com/in/Ashwini9080)
+[![Email](https://img.shields.io/badge/Email-00F0FF?style=flat-square&logo=gmail&logoColor=0D1117&labelColor=0D1117)](mailto:guptaashwini511@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00F0FF?style=flat-square&logo=firefox&logoColor=0D1117&labelColor=0D1117)](https://github.com/Ashwini9080)
+
+<br />
+
+<sub>Open to GSoC / research internships / collaboration</sub>
+
+</div>
